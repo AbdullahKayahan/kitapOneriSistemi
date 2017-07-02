@@ -1,0 +1,11 @@
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\bin\x86\Debug\KitapOneri.exe.config
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\bin\x86\Debug\KitapOneri.exe
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\bin\x86\Debug\KitapOneri.pdb
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\bin\x86\Debug\HtmlAgilityPack.dll
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\bin\x86\Debug\HtmlAgilityPack.pdb
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\bin\x86\Debug\HtmlAgilityPack.xml
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\obj\x86\Debug\KitapOneri.Form1.resources
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\obj\x86\Debug\KitapOneri.Properties.Resources.resources
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\obj\x86\Debug\KitapOneri.csproj.GenerateResource.Cache
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\obj\x86\Debug\KitapOneri.exe
+C:\Users\Abdullah\Source\Repos\Yazilim Muhendisliği\KitapOneri\KitapOneri\obj\x86\Debug\KitapOneri.pdb
